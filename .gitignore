@@ -1,0 +1,5 @@
+# ignore venv
+.venv/
+# igonre sensetive data
+client_secret.json
+.env
